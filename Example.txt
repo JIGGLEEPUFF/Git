@@ -1,1 +1,2 @@
-This is just a demo for Git
+This is just a demo for Git named Example.txt
+Added another line for testing into Example.txt
